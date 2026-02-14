@@ -1,2 +1,2 @@
-# Darul-Islam
+# Hero_Assignments
 This is a landing page of Darul-Islam Online School 
